@@ -2,7 +2,7 @@ Franya Chandler 1103745 4DOF Manipulator Arm: Design and Simulation
 
 Below are instructions to using the packages in this repository. 
 
-1. Download and unzip the two packages (myrobot_description and config) into your catkin_ws.
+1. Download and unzip the two packages (myrobot_description.zip and config.zip) into your catkin_ws.
    
    $ catkin_make
    
